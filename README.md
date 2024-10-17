@@ -13,14 +13,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 A surprisingly stressful project
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://vercel.live/link/recipe-page-pi-henna.vercel.app?via=project-dashboard-alias-list&p=1]
 
 ## My process
 I  tried to follow the design as closely as possible, but I'm not a designer, so I was a little stumped but i came out on top.
